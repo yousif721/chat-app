@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3916436375",
+    "project_id": "chattask-3edcb",
+    "storage_bucket": "chattask-3edcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3916436375:android:4dc02dace0b9124580ead2",
+        "android_client_info": {
+          "package_name": "com.example.chattask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA37qXf_462WRYfSm-JA8KOuNFuFvaLJb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
